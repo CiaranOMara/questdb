@@ -16,7 +16,7 @@ jobs:
           ASSUME_ALWAYS_YES: yes
         with:
           operating_system: freebsd
-          version: '14.2'
+          version: '14.3'
           architecture: x86-64
           memory: 4G
           cpu_count: 2
@@ -31,7 +31,7 @@ jobs:
           ASSUME_ALWAYS_YES: yes
         with:
           operating_system: freebsd
-          version: '14.2'
+          version: '14.3'
           architecture: x86-64
           memory: 4G
           cpu_count: 2
@@ -49,7 +49,7 @@ jobs:
           ASSUME_ALWAYS_YES: yes
         with:
           operating_system: freebsd
-          version: '14.2'
+          version: '14.3'
           architecture: x86-64
           shell: sh
           cpu_count: 2
@@ -71,7 +71,7 @@ jobs:
           ASSUME_ALWAYS_YES: yes
         with:
           operating_system: freebsd
-          version: '14.2'
+          version: '14.3'
           architecture: x86-64
           shell: sh
           cpu_count: 2
@@ -91,7 +91,7 @@ jobs:
           ASSUME_ALWAYS_YES: yes
         with:
           operating_system: freebsd
-          version: '14.2'
+          version: '14.3'
           architecture: x86-64
           shell: sh
           memory: 4G
@@ -115,7 +115,7 @@ jobs:
           ASSUME_ALWAYS_YES: yes
         with:
           operating_system: freebsd
-          version: '14.2'
+          version: '14.3'
           architecture: arm64
           memory: 4G
           cpu_count: 2
@@ -130,7 +130,7 @@ jobs:
           ASSUME_ALWAYS_YES: yes
         with:
           operating_system: freebsd
-          version: '14.2'
+          version: '14.3'
           architecture: arm64
           memory: 4G
           cpu_count: 2
@@ -148,7 +148,7 @@ jobs:
           ASSUME_ALWAYS_YES: yes
         with:
           operating_system: freebsd
-          version: '14.2'
+          version: '14.3'
           architecture: arm64
           shell: sh
           cpu_count: 2
@@ -170,7 +170,7 @@ jobs:
           ASSUME_ALWAYS_YES: yes
         with:
           operating_system: freebsd
-          version: '14.2'
+          version: '14.3'
           architecture: arm64
           shell: sh
           memory: 4G
